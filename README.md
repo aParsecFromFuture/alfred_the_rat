@@ -3,5 +3,6 @@
 It's about a rat which trying to find the cheese and uses Q-Learning algorithm  
 
 Requirements  
-1.Numpy  
-2.Python-tk  
+1.Python 2.7  
+2.Numpy  
+3.Python-tk  
