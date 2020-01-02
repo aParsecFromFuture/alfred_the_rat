@@ -1,4 +1,5 @@
 from World import *
+import threading
 
 world = World(8, 8)
 
