@@ -6,3 +6,7 @@ Requirements
 1.Python 2.7  
 2.Numpy  
 3.Python-tk  
+  
+
+
+![alt text](alfred_the_rat_ss.png)
